@@ -1,7 +1,7 @@
 ## Kifaaya al-Ghani - Verditius Magi
 **Characteristics:** Int +3, Per 0, Pre 0, Com 0, Str –3, Sta +1, Dex +1, Qik 0
 
-|XP|Ability|Specialty|Score||
+|Exp|Ability|Specialty|Score||
 |---|---|---|---|---|
 ||Arabic|takling about metal and gems|5|
 ||Artes Liberales|geometry|1|
