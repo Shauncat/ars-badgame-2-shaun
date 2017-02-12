@@ -22,4 +22,4 @@ Pen +0, 3/dayt<br />`
 
 >(Base: 20, +1 Touch, +1 Diameter, +1 2/day)
 
->Lab Total: Muto (16) + Corpus/Animal (12) + Spell Focus: animal transformation (12) + Int (3) + Inventive Genius (3) + Tailoring (4) + Clothing: transform self (3) + + Material: transform into animal (3) Similar Spell (3) = 62
+`Lab Total: Muto (16) + Corpus/Animal (12) + Spell Focus: animal transformation (12) + Int (3) + Inventive Genius (3) + Tailoring (4) + Clothing: transform self (3) + + Material: transform into animal (3) Similar Spell (3) = 62`
