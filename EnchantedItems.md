@@ -18,6 +18,8 @@ R: Touch, D: Diameter, T: Ind<br />`
 Pen +0, 3/dayt<br />`
 >Kifaaya has, through dedicated study of Animal and Corpus, learned the spell Cloak of Black Feathers, allowing the caster to turn into a bird. It is a potent effect, enabling her to travel great distances and move about unnoticed. However, as a member of Verditius, she spends most of her time in her laboratory, enchanting items, and doesn't have many opportunities to go out flying. So she replicated the effect in this headdress as a donation to the Covenant or, more specifically, to their Redcap, who use items in lieu of casting spells.
 
+>It is a headdress woven of corvid feathers, with a thread made of treated sinew. The wearer tucks their hands within their armpits and flaps their arms to trigger the transformation.
+
 >*Similar Spell: Cloak of the Black Feathers - ArM5*
 
 >(Base: 20, +1 Touch, +1 Diameter, +1 2/day)
