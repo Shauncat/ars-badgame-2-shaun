@@ -12,7 +12,7 @@ Pen +0, Constant Effect<br />
 
 `Lab Total: Muto (16) + Corpus (12) + Int (3) + Magic Theory / 2 (3) = Inventive Genius (3) + Tailoring (4) + Clothing: transform self (3) + Similar Spell (3) = 47`<br />
 
-### Saddle of the Protean Palamino
+### Saddle of the Protean Palomino
 MuCo(An) 29<br />`
 R: Touch, D: Sun, T: Ind<br />`
 Pen +0, 2/dayt<br />
